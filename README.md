@@ -18,9 +18,11 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 
 ###
+
+<h3 align="left">💻 Tech Stack</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -37,6 +39,35 @@
 </div>
 
 ###
+
+<h3 align="left">🛠 Tools & Technologies</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
+</div>
+
+###
+
+<h3 align="left">🚀 My Projects</h3>
+
+<ul align="left">
+  <li><a href="https://github.com/ShahdHesham147/BloodLink" target="_blank">🩸 BloodLink – Blood Donation Web App (HTML, CSS, PHP)</a></li>
+  <li><a href="https://github.com/ShahdHesham147/MovieDB" target="_blank">🎬 Movie Database – Movie Info App with Weather Integration (HTML, CSS, JS, Bootstrap)</a></li>
+  <li><a href="https://github.com/ShahdHesham147/GitHub-User-Search" target="_blank">👩‍💻 GitHub User Search App (React + API)</a></li>
+  <li><a href="https://github.com/ShahdHesham147/RecipeShare" target="_blank">🍲 Recipe Share – State Management Project (React + Zustand)</a></li>
+</ul>
+
+###
+
+<h3 align="left">📬 Connect with me</h3>
 
 <div align="left">
   <a href="mailto:shahdhesham@example.com">
